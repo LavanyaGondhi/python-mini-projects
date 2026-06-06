@@ -43,7 +43,6 @@ The program uses multiple functions to keep the code organized and easy to under
 
 1. Make sure Python is installed.
 2. Run the file using:
-   ```bash
+
+```bash
 python user_profile_validation.py
-
-
