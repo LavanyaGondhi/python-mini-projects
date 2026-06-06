@@ -46,5 +46,4 @@ The program uses multiple functions to keep the code organized and easy to under
    ```bash
 python user_profile_validation.py
 
-```bash
-python user_profile_validation.py
+
